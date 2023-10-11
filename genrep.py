@@ -11,7 +11,7 @@ def main():
        sum_odd += i
 
    # Loopa igenom de första 1000 jämna talen 
-   for i in range(2, 2000, 2):
+   for i in range(2, 2002, 2):
        sum_even += i
 
    # Beräkna differensen mellan summan av udda och jämna tal
